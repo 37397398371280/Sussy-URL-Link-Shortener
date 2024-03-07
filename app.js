@@ -1,16 +1,16 @@
-const emotes = ["𐐘", "𐑀", "𐐿", "𐐃", "𐐫"];
-const seperator = "ඞ";
+const emotes = ["Bites","Pwease-Hit-Even-Hawdew!];
+const seperator = "UwU-OwO-QwQ";
 const ee = {
-	0: "𐐘𐐘𐐘",
-	1: "𐐿𐐫𐐘",
-	2: "𐑀𐐿𐐿",
-	3: "𐐘𐐫𐐿",
-	4: "𐐘𐑀𐐃",
-	5: "𐑀𐐫𐐘",
-	6: "𐐃𐐃𐑀",
-	7: "𐐫𐐃𐐘",
-	8: "𐐃𐐃𐐃",
-	9: "𐑀𐐘𐐫",
+	0: "I Am A Furry!",
+	1: "I Am A Neko!",
+	2: "Mommy!~",
+	3: "Daddy!~",
+	4: "Sugaw-Daddy!~",
+	5: "Ahh!~",
+	6: "Oh!~",
+	7: "Miwky",
+	8: "Miwk",
+	9: "Swiff!~",
 };
 
 window.onhashchange = () => window.location.reload();
